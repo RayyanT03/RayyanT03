@@ -9,15 +9,15 @@
 
 ## 📚 Education
 
-### 🎓 Queen Mary University of London – BEng Aerospace Engineering (First-Class)
-- Developed strong analytical and computational skills using **Python, MATLAB, and Numerical Methods**.
-- Dissertation: *Designed a UAV for humanitarian aid delivery*, including wind tunnel testing for a custom wing design – merging aviation passion with real-world application.
-- Passionate about aviation, engineering design, and translating technical models into practical, impactful solutions.
-
 ### 📈 Imperial College London – MSc Business Analytics (Aug 2025 – Aug 2026)
 - Modules include: **Machine Learning, Financial Analytics, AI Ventures, Python, R, SQL, Tableau**.
 - Designed to blend advanced analytics with business strategy – ideal preparation for roles in **consulting** and **data-driven decision-making**.
 - Actively working on strengthening portfolio and technical toolkit for high-impact roles in analytics and consulting.
+
+### 🎓 Queen Mary University of London – BEng Aerospace Engineering (First-Class)
+- Developed strong analytical and computational skills using **Python, MATLAB, and Numerical Methods**.
+- Dissertation: *Designed a UAV for humanitarian aid delivery*, including wind tunnel testing for a custom wing design – merging aviation passion with real-world application.
+- Passionate about aviation, engineering design, and translating technical models into practical, impactful solutions.
 
 ---
 
