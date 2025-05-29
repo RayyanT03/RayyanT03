@@ -50,7 +50,7 @@
 ### 📊 Global Weather Risk Analysis For Active Vane Freezing – Jaguar Land Rover
 - Analysed weather station data to determine the proportion of driving conditions that meet specific thresholds.
 - This project helped inform product design improvements for better global performance.
-- Built a live **Tableau dashboard** for ongoing stakeholder review – [🔗 Link to dashboard repo coming soon].
+- Built a live **Tableau dashboard** for ongoing stakeholder review – (https://github.com/RayyanT03/Global-Weather-Risk-Analysis-For-Active-Vane-Freezing)
 
 ---
 
