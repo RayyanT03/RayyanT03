@@ -40,7 +40,7 @@
 - Oversaw operations, marketing, scheduling, finance, and quality assurance – with **100% target achievement**.
 - Demonstrated entrepreneurial mindset, leadership, and strategic execution.
 
-### 📝 Imperial College London – Exams Admissions Writer (2022–2023)
+### 📝 Imperial College London – Exams Admissions Writer
 - Designed a 75-question maths test for a new Economics degree, taken by 1,000+ applicants.
 - Increased reliability by 15% and improved clarity, producing a near-perfect bell curve – aligning closely with **data quality and performance optimisation** principles.
 
