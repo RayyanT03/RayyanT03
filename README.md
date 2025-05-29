@@ -24,15 +24,16 @@
 ## 💼 Experience
 
 ### 🚘 Jaguar Land Rover – Data Analyst & Powertrain NVH Engineering (Jul 2024 – Present)
-**NVH Placement (Jul – Dec 2024):**
-- Led reporting for a £15M vehicle performance upgrade project, presenting insights to senior stakeholders.
-- Spearheaded the standardisation of naming conventions for acoustic/vibration testing across 31 facilities.
-- Built transferable skills in stakeholder engagement, cross-functional teamwork, and analytical thinking.
 
 **Data Analytics Team (Jan 2025 – Present):**
 - Delivered a £2.4M improvement through **SQL/BigQuery root cause analysis**, integrating customer and weather data.
 - Automated oil pump test cycles with **Python**, reducing testing time by 90% and boosting reliability.
 - Created and presented **Tableau dashboards** weekly; supported agile delivery as interim Scrum Master.
+
+**NVH Placement (Jul – Dec 2024):**
+- Led reporting for a £15M vehicle performance upgrade project, presenting insights to senior stakeholders.
+- Spearheaded the standardisation of naming conventions for acoustic/vibration testing across 31 facilities.
+- Built transferable skills in stakeholder engagement, cross-functional teamwork, and analytical thinking.
 
 ### 🧠 Rayyan Educates – Founder (May 2024 – Present)
 - Launched and scaled a tutoring company to **60+ students and 9 tutors**, focused on GCSE and A-Level success.
