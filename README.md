@@ -39,7 +39,7 @@
 - Launched and scaled a tutoring company to **60+ students and 9 tutors**, focused on GCSE and A-Level success.
 - Oversaw operations, marketing, scheduling, finance, and quality assurance – with **100% target achievement**.
 - Demonstrated entrepreneurial mindset, leadership, and strategic execution.
-https://www.rayyaneducates.com/
+- https://www.rayyaneducates.com/
 
 ### 📝 Imperial College London – Exams Admissions Writer
 - Designed a 75-question maths test for a new Economics degree, taken by 1,000+ applicants.
